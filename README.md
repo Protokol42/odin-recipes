@@ -1,6 +1,7 @@
 # odin-recipes
 
 Project: Recipes from TheOdinProject
+
 https://protokol42.github.io/odin-recipes/index.html
 
 ## Core Concepts Practiced
