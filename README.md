@@ -12,6 +12,10 @@ https://protokol42.github.io/odin-recipes/index.html
 - **Structuring:** Using headers (`h1`-`h4`) and paragraphs to create a logical flow.
 - **Lists:** Mastering both `<ul>` and `<ol>` for ingredients and steps lists.
 
+### CSS Foundations
+
+-- **Box Model:** Using basic box models with varying properties to style the pages.
+
 ### Version Control (Git)
 
 - **Terminal Mastery:** Moving away from GUI and using the command line.
