@@ -14,7 +14,7 @@ https://protokol42.github.io/odin-recipes/index.html
 
 ### CSS Foundations
 
--- **Box Model:** Using basic box models with varying properties to style the pages.
+- **Box Model:** Using basic box models with varying properties to style the pages.
 
 ### Version Control (Git)
 
